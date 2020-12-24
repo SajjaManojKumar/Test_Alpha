@@ -1,0 +1,11 @@
+soup-miso broth,shoyu broth,tonkotsu broth,shio broth
+noodles-ramen noodles,udon noodles,somen noodles,soba noodles
+toppings-boiled egg,narutomaki, chilli,white seasame,radish,tofu,corn,black seasme,fried egg,shrimp,beef,pork,seaweed,scallions,leek,coriander,lime,horseradish,enoki mushrooms,book choy
+
+/ -home
+/ramen -employee
+/ramen/create -form
+/login -login
+/ramen/{id} - waiting
+/ramen/{id}/bill -bill
+/ramen/item
